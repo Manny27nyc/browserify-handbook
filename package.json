@@ -15,7 +15,7 @@
     "default-pager": "^1.0.1",
     "duplexer2": "^0.1.4",
     "marked": "^0.6.2",
-    "marked-terminal": "^3.2.0",
+    "marked-terminal": "^5.0.0",
     "through2": "^2.0.0"
   },
   "engines": {
