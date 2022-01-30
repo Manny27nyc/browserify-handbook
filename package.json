@@ -11,7 +11,7 @@
     "browserify-handbook": "bin/cmd.js"
   },
   "dependencies": {
-    "concat-stream": "^1.6.2",
+    "concat-stream": "^2.0.0",
     "default-pager": "^1.0.1",
     "duplexer2": "^0.1.4",
     "marked": "^0.6.2",
