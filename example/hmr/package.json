@@ -2,8 +2,8 @@
   "name": "browserify-hmr-example",
   "dependencies": {
     "browserify-hmr": "^0.4.1",
-    "http-server": "^0.11.1",
-    "watchify": "^3.9.0"
+    "http-server": "^0.12.2",
+    "watchify": "^4.0.0"
   },
   "scripts": {
     "watch": "watchify -p browserify-hmr main.js -o public/bundle.js -dv",
